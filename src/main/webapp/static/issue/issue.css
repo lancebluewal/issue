@@ -1,0 +1,13 @@
+.issueProject{
+	margin-left:200px;
+	margin-right:200px;
+	heigth:50px;
+	inline-height:50px;
+	text-align: center;
+}
+
+.clickView{
+	font-size: 16px;
+	font-weight: 900px;
+	color: #04c;
+}
